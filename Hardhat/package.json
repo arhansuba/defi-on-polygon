@@ -1,0 +1,22 @@
+{
+  "name": "hardhat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@davatar/react": "^1.11.1",
+    "@openzeppelin/contracts": "^5.0.2",
+    "hardhat": "^2.22.4",
+    "react-timeago": "^7.2.0",
+    "truncate-middle": "^1.0.6"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
